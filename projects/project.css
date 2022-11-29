@@ -125,7 +125,7 @@
     border-style: solid;
     border-color: transparent transparent #f6f6f6 transparent;
     position: absolute;
-    right: 5px;
+    right: 3px;
     top: -20px;
   }
   .header .links:hover ul {
